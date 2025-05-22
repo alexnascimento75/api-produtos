@@ -1,0 +1,16 @@
+{
+  "name": "api-produtos",
+  "version": "1.0.0",
+  "description": "API RESTful para gerenciar produtos",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "joi": "^17.4.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
